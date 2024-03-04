@@ -1,0 +1,259 @@
+{
+    "title": "Castle Siege Ranking - Matadores",
+    "date_event": "03/03/2024",
+    "totalcontagem": "1728",
+    "ranks": [{
+            "rank": 1,
+            "name": "B4NN3D",
+            "contagem": 196,
+            "porcentagem": "11.34%",
+            "class": "Luminous Wizard",
+            "guild": "MARVEL"
+        }, {
+            "rank": 2,
+            "name": "GhosTKiler",
+            "contagem": 151,
+            "porcentagem": "8.74%",
+            "class": "Luminous Wizard",
+            "guild": "Surprise"
+        }, {
+            "rank": 3,
+            "name": "RasgaPrega",
+            "contagem": 148,
+            "porcentagem": "8.56%",
+            "class": "Luminous Wizard",
+            "guild": "Surprise"
+        }, {
+            "rank": 4,
+            "name": "Morrigan",
+            "contagem": 110,
+            "porcentagem": "6.37%",
+            "class": "Slaughterer",
+            "guild": "MARVEL"
+        }, {
+            "rank": 5,
+            "name": "LENDARIA",
+            "contagem": 105,
+            "porcentagem": "6.08%",
+            "class": "Slaughterer",
+            "guild": "Surprise"
+        }, {
+            "rank": 6,
+            "name": "Therf",
+            "contagem": 100,
+            "porcentagem": "5.79%",
+            "class": "Fist Blaze",
+            "guild": "MARVEL"
+        }, {
+            "rank": 7,
+            "name": "DrStrange",
+            "contagem": 79,
+            "porcentagem": "4.57%",
+            "class": "Luminous Wizard",
+            "guild": "MARVEL"
+        }, {
+            "rank": 8,
+            "name": "Deathpsico",
+            "contagem": 70,
+            "porcentagem": "4.05%",
+            "class": "Dragon Knight",
+            "guild": "MARVEL"
+        }, {
+            "rank": 9,
+            "name": "MaLBacK",
+            "contagem": 65,
+            "porcentagem": "3.76%",
+            "class": "Soul Wizard",
+            "guild": "MARVEL"
+        }, {
+            "rank": 10,
+            "name": "PeaceMaker",
+            "contagem": 63,
+            "porcentagem": "3.65%",
+            "class": "Slaughterer",
+            "guild": "Surprise"
+        }, {
+            "rank": 11,
+            "name": "NeGoVeiOo",
+            "contagem": 60,
+            "porcentagem": "3.47%",
+            "class": "Dragon Knight",
+            "guild": "MARVEL"
+        }, {
+            "rank": 12,
+            "name": "ZezinN",
+            "contagem": 59,
+            "porcentagem": "3.41%",
+            "class": "Dimension Summoner",
+            "guild": "Surprise"
+        }, {
+            "rank": 13,
+            "name": "Envy",
+            "contagem": 55,
+            "porcentagem": "3.18%",
+            "class": "Noble Elf",
+            "guild": "Surprise"
+        }, {
+            "rank": 14,
+            "name": "FoDaUmLK",
+            "contagem": 53,
+            "porcentagem": "3.07%",
+            "class": "Mystic Knight",
+            "guild": "MARVEL"
+        }, {
+            "rank": 15,
+            "name": "Raibura",
+            "contagem": 52,
+            "porcentagem": "3.01%",
+            "class": "Noble Elf",
+            "guild": "Surprise"
+        }, {
+            "rank": 16,
+            "name": "BeYoNDeR",
+            "contagem": 46,
+            "porcentagem": "2.66%",
+            "class": "Dragon Knight",
+            "guild": "MARVEL"
+        }, {
+            "rank": 17,
+            "name": "BlackKinG",
+            "contagem": 38,
+            "porcentagem": "2.20%",
+            "class": "Magic Knight",
+            "guild": "MARVEL"
+        }, {
+            "rank": 18,
+            "name": "PicaPreTa",
+            "contagem": 34,
+            "porcentagem": "1.97%",
+            "class": "Soul Wizard",
+            "guild": "MARVEL"
+        }, {
+            "rank": 19,
+            "name": "100BRACO",
+            "contagem": 33,
+            "porcentagem": "1.91%",
+            "class": "Dragon Knight",
+            "guild": "MARVEL"
+        }, {
+            "rank": 20,
+            "name": "WestBK",
+            "contagem": 31,
+            "porcentagem": "1.79%",
+            "class": "Dragon Knight",
+            "guild": "Surprise"
+        }, {
+            "rank": 21,
+            "name": "KinGMS",
+            "contagem": 30,
+            "porcentagem": "1.74%",
+            "class": "Soul Wizard",
+            "guild": "MARVEL"
+        }, {
+            "rank": 22,
+            "name": "CritiKal",
+            "contagem": 27,
+            "porcentagem": "1.56%",
+            "class": "Magic Knight",
+            "guild": "Reborn"
+        }, {
+            "rank": 23,
+            "name": "PKZINHO",
+            "contagem": 24,
+            "porcentagem": "1.39%",
+            "class": "Fist Blaze",
+            "guild": "MARVEL"
+        }, {
+            "rank": 24,
+            "name": "Degel",
+            "contagem": 21,
+            "porcentagem": "1.22%",
+            "class": "Magic Knight",
+            "guild": "Surprise"
+        }, {
+            "rank": 25,
+            "name": "Previosin",
+            "contagem": 17,
+            "porcentagem": "0.98%",
+            "class": "Empire Lord",
+            "guild": "MARVEL"
+        }, {
+            "rank": 26,
+            "name": "PieTrOo",
+            "contagem": 13,
+            "porcentagem": "0.75%",
+            "class": "Empire Lord",
+            "guild": "MARVEL"
+        }, {
+            "rank": 27,
+            "name": "SirExodus",
+            "contagem": 12,
+            "porcentagem": "0.69%",
+            "class": "Empire Lord",
+            "guild": "MARVEL"
+        }, {
+            "rank": 28,
+            "name": "ASM1",
+            "contagem": 10,
+            "porcentagem": "0.58%",
+            "class": "Soul Wizard",
+            "guild": "MARVEL"
+        }, {
+            "rank": 29,
+            "name": "Madness",
+            "contagem": 9,
+            "porcentagem": "0.52%",
+            "class": "Soul Wizard",
+            "guild": "MARVEL"
+        }, {
+            "rank": 30,
+            "name": "Chote",
+            "contagem": 9,
+            "porcentagem": "0.52%",
+            "class": "Shining Lancer",
+            "guild": "Surprise"
+        }, {
+            "rank": 31,
+            "name": "LordUniao",
+            "contagem": 2,
+            "porcentagem": "0.12%",
+            "class": "Empire Lord",
+            "guild": "Surprise"
+        }, {
+            "rank": 32,
+            "name": "ReyDeOuro",
+            "contagem": 2,
+            "porcentagem": "0.12%",
+            "class": "Dragon Knight",
+            "guild": "Surprise"
+        }, {
+            "rank": 33,
+            "name": "Surprise",
+            "contagem": 1,
+            "porcentagem": "0.06%",
+            "class": "Empire Lord",
+            "guild": "Surprise"
+        }, {
+            "rank": 34,
+            "name": "Druidao",
+            "contagem": 1,
+            "porcentagem": "0.06%",
+            "class": "Soul Wizard",
+            "guild": "AVENGER"
+        }, {
+            "rank": 35,
+            "name": "DOLYNHO",
+            "contagem": 1,
+            "porcentagem": "0.06%",
+            "class": "Luminous Wizard",
+            "guild": "MARVEL"
+        }, {
+            "rank": 36,
+            "name": "LadyofDead",
+            "contagem": 1,
+            "porcentagem": "0.06%",
+            "class": "Noble Elf",
+            "guild": "MARVEL"
+        }
+    ]
+}
